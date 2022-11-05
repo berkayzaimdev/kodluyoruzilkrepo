@@ -26,3 +26,5 @@ Pull requestlar kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 ***
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## [Patika linkim](https://app.patika.dev/berkayzaim)
